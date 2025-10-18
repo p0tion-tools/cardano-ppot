@@ -1,0 +1,170 @@
+Contribution Record
+==================
+
+File: pot23_0008.ptau
+Size: 4831855502 bytes (4608.02 MB)
+Ceremony Power: 23
+Contribution Index: 8
+Previous File: pot23_0007.ptau
+Generated: 2025-10-18T17:59:37.391Z
+Contributor: carrot shadow
+
+Contribution Log:
+================
+[32;22m[INFO]  [39;1msnarkJS[0m: Powers Of tau file OK!
+[32;22m[INFO]  [39;1msnarkJS[0m: Next challenge hash: 
+		9e3cfab9 763cb17b 6ade2b9a dfc5b564
+		52dc9490 c6d75068 e4b562cb 6083c93d
+		a8c94b17 d0b657a1 0c152770 216f3a67
+		1717d268 bfd92106 c145831d fb0d85a6
+[32;22m[INFO]  [39;1msnarkJS[0m: -----------------------------------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: Contribution #8: carrot shadow
+[32;22m[INFO]  [39;1msnarkJS[0m: Next Challenge: 
+		9e3cfab9 763cb17b 6ade2b9a dfc5b564
+		52dc9490 c6d75068 e4b562cb 6083c93d
+		a8c94b17 d0b657a1 0c152770 216f3a67
+		1717d268 bfd92106 c145831d fb0d85a6
+[32;22m[INFO]  [39;1msnarkJS[0m: Response Hash:
+		ba786c2f 7d27d410 09e89262 ee2b9bff
+		1d13018c d0c7fdad abf89e62 b95b0c9d
+		b5ac61d2 c107021a 60362533 ac493adf
+		c1f716a2 bdec32df 1242d018 c57b4cec
+[32;22m[INFO]  [39;1msnarkJS[0m: Response Hash:
+		a65a620a 0cc98705 6ec50dfd 2a39a691
+		52a4ab70 6fcdc7b6 84f4232e 2e36e3c5
+		80ca7555 e0d96451 11895022 4e937f70
+		cbff6a81 49be468e e1ec5f29 1ee214f2
+[32;22m[INFO]  [39;1msnarkJS[0m: Powers Of tau file OK!
+[32;22m[INFO]  [39;1msnarkJS[0m: -----------------------------------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: Contribution #7: Lorenzo Ruiz Diaz
+[32;22m[INFO]  [39;1msnarkJS[0m: Next Challenge: 
+		a65a620a 0cc98705 6ec50dfd 2a39a691
+		52a4ab70 6fcdc7b6 84f4232e 2e36e3c5
+		80ca7555 e0d96451 11895022 4e937f70
+		cbff6a81 49be468e e1ec5f29 1ee214f2
+[32;22m[INFO]  [39;1msnarkJS[0m: Response Hash:
+		75e9ea13 6586ac87 33f383d7 c093e08e
+		b58ba10d 566cdfd8 21e1e27f bb2b06e0
+		3b30e0c6 786d4c9c 11e29e33 5d42eb15
+		e46a48e1 cc6d198f 39e15678 6f5e8e2d
+[32;22m[INFO]  [39;1msnarkJS[0m: Response Hash:
+		e3bdd3dd 11aba9d5 fa20be47 ba78fe27
+		0a1c1a26 3460c6b6 31b131f0 e5a6915a
+		1612561d 79a0f5ed e3ec5e4c 46597341
+		13e01d60 dead6a87 1c7bfc5b d6630e71
+[32;22m[INFO]  [39;1msnarkJS[0m: Powers Of tau file OK!
+[32;22m[INFO]  [39;1msnarkJS[0m: -----------------------------------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: Contribution #6: diegomac35
+[32;22m[INFO]  [39;1msnarkJS[0m: Next Challenge: 
+		e3bdd3dd 11aba9d5 fa20be47 ba78fe27
+		0a1c1a26 3460c6b6 31b131f0 e5a6915a
+		1612561d 79a0f5ed e3ec5e4c 46597341
+		13e01d60 dead6a87 1c7bfc5b d6630e71
+[32;22m[INFO]  [39;1msnarkJS[0m: Response Hash:
+		b61d5994 512d164c 3ca29af4 1ce50aa3
+		0978d38a eb6ff49b 3865ccd0 61405b51
+		1bd56116 91345e42 c42ab95b 37dbf7ab
+		7ce514d7 a1efc30b c16df638 798d2812
+[32;22m[INFO]  [39;1msnarkJS[0m: Response Hash:
+		5513f3fe dcb0793a 7082eeac 396e1204
+		a3be4202 62d582c2 f2b12309 2b01bb35
+		c84083f7 c6e34fd3 2d1cd011 cb741176
+		9f80ca06 9c70eee6 f5b02216 092f867c
+[32;22m[INFO]  [39;1msnarkJS[0m: Powers Of tau file OK!
+[32;22m[INFO]  [39;1msnarkJS[0m: -----------------------------------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: Contribution #5: Alfred Vilsmeier
+[32;22m[INFO]  [39;1msnarkJS[0m: Next Challenge: 
+		5513f3fe dcb0793a 7082eeac 396e1204
+		a3be4202 62d582c2 f2b12309 2b01bb35
+		c84083f7 c6e34fd3 2d1cd011 cb741176
+		9f80ca06 9c70eee6 f5b02216 092f867c
+[32;22m[INFO]  [39;1msnarkJS[0m: Response Hash:
+		51418b25 de9db5d3 b4805c26 e80ade24
+		f59c1c2e 34b3391f 0c0a143a f1d44834
+		25254db4 0e8e9a85 05d6c888 3d8074c0
+		f1624fba 96cfbce6 1407be08 00ed10d4
+[32;22m[INFO]  [39;1msnarkJS[0m: Response Hash:
+		36228a81 4d27b090 39855648 61c03ea2
+		4b20bf15 ce16de9f 50119fbf 84bbf0b2
+		c6d2d2c1 fa789f4e 34201e75 14da7780
+		93f8878f 76b3cac8 f104f1e6 59917473
+[32;22m[INFO]  [39;1msnarkJS[0m: Powers Of tau file OK!
+[32;22m[INFO]  [39;1msnarkJS[0m: -----------------------------------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: Contribution #4: Bruno Weisz
+[32;22m[INFO]  [39;1msnarkJS[0m: Next Challenge: 
+		36228a81 4d27b090 39855648 61c03ea2
+		4b20bf15 ce16de9f 50119fbf 84bbf0b2
+		c6d2d2c1 fa789f4e 34201e75 14da7780
+		93f8878f 76b3cac8 f104f1e6 59917473
+[32;22m[INFO]  [39;1msnarkJS[0m: Response Hash:
+		748a5c04 34d9b2b0 9b3624cd 6c4b8443
+		88627dd0 c3a5142b 7b6966a9 36a5b091
+		082b8e1c df5866e0 2bde9016 3956255d
+		7892d727 aa8e9d7a 0bf54608 390ca5fd
+[32;22m[INFO]  [39;1msnarkJS[0m: Response Hash:
+		4730e4c1 b7443539 90d73305 de0b2419
+		3e2e1331 92659ec6 f47ff182 0e1a9939
+		66d2d772 9ec86b91 2bfa5a2d 8b00e617
+		b4ddde56 51f4c1e2 4da8394c 90511832
+[32;22m[INFO]  [39;1msnarkJS[0m: Powers Of tau file OK!
+[32;22m[INFO]  [39;1msnarkJS[0m: -----------------------------------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: Contribution #3: Rodrigo Oyarzun-[CHIL]
+[32;22m[INFO]  [39;1msnarkJS[0m: Next Challenge: 
+		4730e4c1 b7443539 90d73305 de0b2419
+		3e2e1331 92659ec6 f47ff182 0e1a9939
+		66d2d772 9ec86b91 2bfa5a2d 8b00e617
+		b4ddde56 51f4c1e2 4da8394c 90511832
+[32;22m[INFO]  [39;1msnarkJS[0m: Response Hash:
+		0621e207 80a3073c 7ee50512 ad6cd74f
+		3de3128f 02373a3e 47e5e16e f32ecac3
+		0a71e025 74e5e184 afe4ae39 116eaef4
+		8c149620 58baa96d 41285ddb 6c054dd7
+[32;22m[INFO]  [39;1msnarkJS[0m: Response Hash:
+		cbc9ca8a c1628501 08282662 bcf1a872
+		63cd095a e91c1692 23acde75 4eb9e083
+		89c22bf0 3a7678eb 84d58867 071b3952
+		c34e3c17 08eec558 83e736d9 af1ddef8
+[32;22m[INFO]  [39;1msnarkJS[0m: Powers Of tau file OK!
+[32;22m[INFO]  [39;1msnarkJS[0m: -----------------------------------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: Contribution #2: Jose Tomas Ruiz Vidal
+[32;22m[INFO]  [39;1msnarkJS[0m: Next Challenge: 
+		cbc9ca8a c1628501 08282662 bcf1a872
+		63cd095a e91c1692 23acde75 4eb9e083
+		89c22bf0 3a7678eb 84d58867 071b3952
+		c34e3c17 08eec558 83e736d9 af1ddef8
+[32;22m[INFO]  [39;1msnarkJS[0m: Response Hash:
+		7257be51 08dd946d bbe7f522 bd18570a
+		93aaea33 81d774df f2222688 7a5d30c2
+		7f46e736 a5ae7da9 fcd1c56a 26bc2547
+		27f40ee4 9f43f24f 8a7d92a0 cbb23cc1
+[32;22m[INFO]  [39;1msnarkJS[0m: Response Hash:
+		274314bb 2a854f2c 8cb464c6 0c229978
+		c7394d90 bbf7c3e5 7e8afaaf 888f1c3c
+		b37446ed 0c0c756a dd3b8d95 a71a9780
+		1f34d9f4 43516dcd 31b4abd5 45772f83
+[32;22m[INFO]  [39;1msnarkJS[0m: Powers Of tau file OK!
+[32;22m[INFO]  [39;1msnarkJS[0m: -----------------------------------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: Contribution #1: Agustín Salinas
+[32;22m[INFO]  [39;1msnarkJS[0m: Next Challenge: 
+		274314bb 2a854f2c 8cb464c6 0c229978
+		c7394d90 bbf7c3e5 7e8afaaf 888f1c3c
+		b37446ed 0c0c756a dd3b8d95 a71a9780
+		1f34d9f4 43516dcd 31b4abd5 45772f83
+[32;22m[INFO]  [39;1msnarkJS[0m: Response Hash:
+		9397fb1e 1cedb0a5 ec983860 997bfd91
+		dbd18fe1 eb399643 186a022f edaf58d2
+		7bd55df7 a6eb0edb 2f429f88 54b4b948
+		46c5e835 e64d537a 182b4947 1bc1ae5c
+[32;22m[INFO]  [39;1msnarkJS[0m: Response Hash:
+		921855d7 d8702daa 81a6ddff 90e62fef
+		81866656 6aa2bc8b 4171bc05 e2d09302
+		b6de194e 141138db 4dc47c54 e34c1bad
+		9457b951 b70b8fae 6b2fc681 a45513b5
+[32;22m[INFO]  [39;1msnarkJS[0m: -----------------------------------------------------
+[33;22m[WARN]  [39;1msnarkJS[0m: this file does not contain phase2 precalculated values. Please run: 
+   snarkjs "powersoftau preparephase2" to prepare this file to be used in the phase2 ceremony.
+[32;22m[INFO]  [39;1msnarkJS[0m: Powers of Tau Ok!
+
+
+This record contains the output from the snarkjs contribution command
+including cryptographic hashes for verification purposes.
