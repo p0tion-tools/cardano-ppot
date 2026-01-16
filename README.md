@@ -78,7 +78,7 @@ The coordinator generates the initial challenge file containing the starting Pow
 
 ### 2. **Contribution Phase**
 Each participant:
-- Downloads the current challenge file (~9GB)
+- Downloads the current challenge file (~4.5GB)
 - Adds their secret randomness to extend the tau powers
 - Generates a response file with their contribution
 - **Destroys their secret input** (critical for security)
@@ -95,10 +95,10 @@ The ceremony produces a Common Reference String (CRS) ready for use in Zero-Know
 ## Logistics
 
 ### Hardware Requirements
-- **RAM**: Minimum 16GB (recommended 32GB)
-- **Storage**: 20GB available space
-- **CPU**: Multi-core processor (contribution takes 3-4 hours)
-- **Network**: Stable internet for 9GB downloads/uploads
+- **RAM**: Minimum 8GB (recommended 16GB)
+- **Storage**: 10GB available space
+- **CPU**: Multi-core processor (contribution takes 2 hours)
+- **Network**: Stable internet for 4.5GB downloads/uploads
 
 ### Coordination
 - **Communication**: Official Twitter/X updates and GitHub repository
@@ -173,4 +173,4 @@ This ceremony is organized by the Cardano community to enable the CRS for Zero-K
 
 ---
 
-*Last updated: October 2025 | Ceremony Status: In Progress*
+*Last updated: January 2026 | Ceremony Status: Closed*
