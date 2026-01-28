@@ -71,6 +71,41 @@ To participate you must:
 **Current**: 41/40 (Complete)
 **Timeline**: Q4 2025 - Q1 2025
 
+## Beacon Application
+
+After completing all contributions, a Cardano blockchain hash was applied as a beacon to ensure final randomness and security of the ceremony parameters. The beacon selection was decided through community consensus on the official [Discord channel](https://discord.gg/zrER4zPF).
+
+**Beacon Details:**
+- **Block Number**: `12637381`
+- **Block Hash**: `52465f4578e7e8f8d673676569d0798366f7ab2d12fcd79af15a23616374ea05`
+- **Block Explorer**: [View on AdaStat](https://adastat.net/blocks/52465f4578e7e8f8d673676569d0798366f7ab2d12fcd79af15a23616374ea05)
+
+The beacon ensures that even if all participants colluded, the final parameters remain cryptographically secure by incorporating unpredictable randomness from the Cardano blockchain.
+
+## Prepared and Truncated Files
+
+A phase-2-ready `.ptau` file is available for each power of 2 up to 28. When choosing a file, the best choice is generally the smallest file with a number of points > the number of constraints in the circuit.
+
+| Degree | Link to File | Number of Points | Size |
+| :-------: |--------------|------------------:|----:|
+| 8 | [pot23_final_08.ptau](https://cardano-trusted-setup-test.s3.us-east-2.amazonaws.com/Cardano-PPOT-Results/pot23_final_08.ptau) | 256 | 517kb |
+| 9 | [pot23_final_09.ptau](https://cardano-trusted-setup-test.s3.us-east-2.amazonaws.com/Cardano-PPOT-Results/pot23_final_09.ptau) | 512 | 949kb |
+| 10 | [pot23_final_10.ptau](https://cardano-trusted-setup-test.s3.us-east-2.amazonaws.com/Cardano-PPOT-Results/pot23_final_10.ptau) | 1,024 | 1.8mb |
+| 11 | [pot23_final_11.ptau](https://cardano-trusted-setup-test.s3.us-east-2.amazonaws.com/Cardano-PPOT-Results/pot23_final_11.ptau) | 2,048 | 3.5mb |
+| 12 | [pot23_final_12.ptau](https://cardano-trusted-setup-test.s3.us-east-2.amazonaws.com/Cardano-PPOT-Results/pot23_final_12.ptau) | 4,096 | 6.8mb |
+| 13 | [pot23_final_13.ptau](https://cardano-trusted-setup-test.s3.us-east-2.amazonaws.com/Cardano-PPOT-Results/pot23_final_13.ptau) | 8,192 | 13.6mb |
+| 14 | [pot23_final_14.ptau](https://cardano-trusted-setup-test.s3.us-east-2.amazonaws.com/Cardano-PPOT-Results/pot23_final_14.ptau) | 16,384 | 27.1mb |
+| 15 | [pot23_final_15.ptau](https://cardano-trusted-setup-test.s3.us-east-2.amazonaws.com/Cardano-PPOT-Results/pot23_final_15.ptau) | 32,768 | 54.1mb |
+| 16 | [pot23_final_16.ptau](https://cardano-trusted-setup-test.s3.us-east-2.amazonaws.com/Cardano-PPOT-Results/pot23_final_16.ptau) | 65,536 | 108mb |
+| 17 | [pot23_final_17.ptau](https://cardano-trusted-setup-test.s3.us-east-2.amazonaws.com/Cardano-PPOT-Results/pot23_final_17.ptau) | 131,072 | 216mb |
+| 18 | [pot23_final_18.ptau](https://cardano-trusted-setup-test.s3.us-east-2.amazonaws.com/Cardano-PPOT-Results/pot23_final_18.ptau) | 262,144 | 432mb |
+| 19 | [pot23_final_19.ptau](https://cardano-trusted-setup-test.s3.us-east-2.amazonaws.com/Cardano-PPOT-Results/pot23_final_19.ptau) | 524,288 | 864mb |
+| 20 | [pot23_final_20.ptau](https://cardano-trusted-setup-test.s3.us-east-2.amazonaws.com/Cardano-PPOT-Results/pot23_final_20.ptau) | 1,048,576 | 1.7gb |
+| 21 | [pot23_final_21.ptau](https://cardano-trusted-setup-test.s3.us-east-2.amazonaws.com/Cardano-PPOT-Results/pot23_final_21.ptau) | 2,097,152 | 3.4gb |
+| 22 | [pot23_final_22.ptau](https://cardano-trusted-setup-test.s3.us-east-2.amazonaws.com/Cardano-PPOT-Results/pot23_final_22.ptau) | 4,194,304 | 6.9gb |
+| 23 | [pot23_final_23.ptau](https://cardano-trusted-setup-test.s3.us-east-2.amazonaws.com/Cardano-PPOT-Results/pot23_final_23.ptau) | 8,388,608 | 13.5gb |
+
+
 ## Ceremony Process
 
 ### 1. **Initialization**
