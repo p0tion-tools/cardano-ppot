@@ -84,7 +84,7 @@ The beacon ensures that even if all participants colluded, the final parameters 
 
 ## Prepared and Truncated Files
 
-A phase-2-ready `.ptau` file is available for each power of 2 up to 28. When choosing a file, the best choice is generally the smallest file with a number of points > the number of constraints in the circuit.
+A phase-2-ready `.ptau` file is available for each power of 2 up to 23. When choosing a file, the best choice is generally the smallest file with a number of points > the number of constraints in the circuit.
 
 | Degree | Link to File | Number of Points | Size |
 | :-------: |--------------|------------------:|----:|
